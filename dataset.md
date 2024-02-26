@@ -21,8 +21,8 @@ This page has been created to embed schema.org and Bioschemas markup describing 
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
     "url": "https://zenodo.org/record/7338056",
-    "datePublished": "2022-11-19",
-    "author": [                
+    "datePublished": "2024-02-26",
+    "author": [               
       {"@id": "https://orcid.org/0000-0003-2978-8922"},
       {"@id": "https://orcid.org/0009-0004-1529-0095"},
       {"@id": "https://orcid.org/0000-0002-1018-0370"},
